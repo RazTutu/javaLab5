@@ -9,3 +9,4 @@ Alte probleme:
 -folosirea exceptiilor la momentul potrivit(trebuie sa recunosc, am fost ajutat de InteliJ putin aici :)   )
 
 Am reusit sa rezolv toate problemele, mai putin faza cu proiect Maven.
+Am reusit sa implementez metodele save, load, view necesare partii de Compulsory.
